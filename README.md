@@ -88,15 +88,15 @@ L’immagine riproduce una “pubblicità progresso” pubblicata nel 1998 nella
 |             |                          |                                                                                                                                                                                          |
 |-------------|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Discorso    |                          |                                                                                                                                                                                          |
-|             | Relazioni intervisuali   | 1. Altre pubblicità progresso 2. Altre pubblicità (ad es. Denim "per l'uomo che non deve chiedere mai" 3. Rapporti eterosessuali                                                         |
+|             | Relazioni intervisuali   | 1. Altre pubblicità progresso  2. Altre pubblicità (ad es. Denim "per l'uomo che non deve chiedere mai")  3. Rapporti eterosessuali                                                         |
 |             | Opera                    | Pubblicità progresso, con un messaggio sociale dato dall'interazione dei diversi elementi (immagine e testi)                                                                             |
 | Grammatica  |                          |                                                                                                                                                                                          |
 |             | Scena                    | Intimità rappresentata in maniera "pericolosa"                                                                                                                                           |
-|             | Sotto-scene              | 1. Mano di donna sul corpo dell'uomo 2. Mano dell'uomo che si slaccia la cintura                                                                                                         |
-|             | Figura                   | 1. Uomo 2. Donna                                                                                                                                                                         |
+|             | Sotto-scene              | 1. Mano di donna sul corpo dell'uomo  2. Mano dell'uomo che si slaccia la cintura                                                                                                         |
+|             | Figura                   | 1. Uomo  2. Donna                                                                                                                                                                         |
 |             | Parte                    | 1. Mano della donna con unghie smaltate                                                                                                                                                  |
 | Materialità |                          |                                                                                                                                                                                          |
-|             | Caratteristiche grafiche | 1. Uso del colore rosso per il titolo; per attrarre l'attenzione? 2. Uso del colore blu per indicare qualcosa di "innaturale" e potenzialmente pericoloso (la pelle umana non è mai blu) |
+|             | Caratteristiche grafiche | 1. Uso del colore rosso per il titolo; per attrarre l'attenzione?  2. Uso del colore blu per indicare qualcosa di "innaturale" e potenzialmente pericoloso (la pelle umana non è mai blu) |
 
 
 ## Per approfondire
