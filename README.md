@@ -39,7 +39,7 @@ Si intende per *discorso* quell’insieme di caratteristiche che legano un testo
 .tg .tg-uqo3{background-color:#efefef;text-align:center;vertical-align:top}
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-0lax{font-style:italic; text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -65,7 +65,7 @@ Si intende per *discorso* quell’insieme di caratteristiche che legano un testo
 </thead>
 <tbody>
   <tr>
-    <td class="tg-baqh" rowspan="2">Aspetto</td>
+    <th class="tg-baqh" rowspan="2">Aspetto</th>
     <td class="tg-uqo3" colspan="2">Materialità</td>
   </tr>
   <tr>
