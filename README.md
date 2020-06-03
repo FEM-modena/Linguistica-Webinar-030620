@@ -30,14 +30,48 @@ Così come esiste una **grammatica del testo** - intesa come insieme di regole c
 ## Un *discorso* delle immagini
 Si intende per *discorso* quell’insieme di caratteristiche che legano un testo o un’immagine ad un contesto situazionale - si parla infatti di *situated meanings* ≈ significati contestuali. Analizzare il *discorso* significa dunque analizzare quei significati “sociali” creati attraverso la grammatica, e collegarli a quelle caratteristiche/dinamiche sociali nei quali si situano. La relazione *discorso* - *grammatica* è biunivoca, pertanto l’uno influenza l’altra e viceversa. 
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-uqo3{background-color:#efefef;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
   <tr>
-    <td>One</td>
-    <td>Two</td>
+    <th class="tg-baqh" rowspan="5">Contenuto</th>
+    <th class="tg-uqo3">Lingua</th>
+    <th class="tg-uqo3">Dimensione visuale</th>
   </tr>
   <tr>
-    <td colspan="2">Three</td>
+    <td class="tg-baqh" colspan="2">Discorso</td>
   </tr>
+  <tr>
+    <td class="tg-8zwo">Discorso</td>
+    <td class="tg-0lax">Relazioni intervisuali: cosa ti fa venire in mente questa immagine? quali sono gli elementi che vedi nell’immagine? Ci sono elementi  “paratestuali” che non appartengono all’immagine che ti aiutano a capirne il significato?<br><br>Opera: come sono combinati i diversi elementi per creare un’unità dotata di significato?</td>
+  </tr>
+  <tr>
+    <td class="tg-uqo3" colspan="2">Grammatica</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Periodo<br>Frase<br>Predicato<br>Parola<br></td>
+    <td class="tg-0lax">Scena: quale sequenza di movimento-azione-evento compongono gli oggetti?<br>Sotto-scene: ’immagine può essere scomposta in “mini” scene indipendenti?<br><br>Figura: quali oggetti/elementi sono presenti nell’immagine?<br><br>Parte: quali elementi delle figure sono visibili?</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh" rowspan="2">Aspetto</td>
+    <td class="tg-uqo3" colspan="2">Materialità</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="2">Caratteristiche tipografiche/grafologiche e graficaAd es. come sono usati i colori? Sono usati materiali diversi per evidenziare aspetti diversi dell’immagine? Come sono usate la prospettiva e l’inquadratura?</td>
+  </tr>
+</tbody>
 </table>
 
 
