@@ -90,8 +90,7 @@ utilizzato per l’identificazione delle metafore si basa sull’individuazione 
 E se volete proporre ai vostri studenti altre attività sulle metafore, vi suggeriamo questa <a href= "http://visualmetaphor.com/index.php" target="_blank"> piattaforma </a> che permette di combinare i più svariati elementi visivi per la creazione di metafore originali.
 
 ## Riferimenti
-Bezemer, Josephus Johannes, Carey Jewitt, and Kay L. O’Halloran. 2016. *Introducing Multimodality*. London ; New York: Routledge.
-Gee, James Paul, and Michael Handford, eds. 2012. *The Routledge Handbook of Discourse Analysis*. Routledge Handbooks in Applied Linguistics. London ; New York: Routledge.
-Halliday, M.A.K. 2014. *Introduction to Functional Grammar*. London ; New York: Routledge. 
-
+Bezemer, Josephus Johannes, Carey Jewitt, and Kay L. O’Halloran. 2016. *Introducing Multimodality*. London ; New York: Routledge.  
+Gee, James Paul, and Michael Handford, eds. 2012. *The Routledge Handbook of Discourse Analysis*. Routledge Handbooks in Applied Linguistics. London ; New York: Routledge.  
+Halliday, M.A.K. 2014. *Introduction to Functional Grammar*. London ; New York: Routledge.  
 <a href="http://www.insegnareonline.com/rivista/cultura-ricerca-didattica/strada-tesi-prospettiva-multimodale" rel="" target="_blank">Sulla strada delle Dieci Tesi in prospettiva multimodale</a>
