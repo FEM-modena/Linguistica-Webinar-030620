@@ -62,7 +62,7 @@ Si intende per *discorso* quell’insieme di caratteristiche che legano un testo
     <td class="tg-uqo3" colspan="2">Grammatica</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Periodo<br>Frase<br>Predicato<br>Parola<br></td>
+    <td class="tg-0lax">Periodo<br><br>Frase<br><br>Predicato<br><br>Parola<br></td>
     <td class="tg-0lax">Scena: quale sequenza di movimento-azione-evento compongono gli oggetti?<br><br>Sotto-scene: ’immagine può essere scomposta in “mini” scene indipendenti?<br><br>Figura: quali oggetti/elementi sono presenti nell’immagine?<br><br>Parte: quali elementi delle figure sono visibili?</td>
   </tr>
 </thead>
