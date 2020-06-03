@@ -11,7 +11,7 @@ Speriamo che questa diventi un punto di incontro tra tutte le competenze fin qui
 ## Multimodalità: che cosa significa?
 In semiotica, il termine **multimodale** si riferisce alle diverse modalità di comunicazione che vengono utilizzate - spesso in interazione tra loro - per la costruzione di significato. La capacità di interpretare correttamente un messaggio e di trasmetterne il contenuto non si misura quindi su un piano puramente verbale: basti pensare alle immagini, siano esse statiche o in movimento, e alle loro diverse funzioni comunicative, ma anche ad altri tipi di comunicazione che tengono conto di elementi non verbali come la **prossemica** e lo studio dei gesti. In *Introducing Multimodality* (2016), gli studiosi Bezemer, Jewitt e O’Halloran evidenziano i tre elementi chiave della multimodalità:
 
-> 1. Il significato è costruito con differenti risorse semiotiche, ognuna delle quali presenta potenzialità e limitazioni
+1. Il significato è costruito con differenti risorse semiotiche, ognuna delle quali presenta potenzialità e limitazioni
 2. La costruzione di significato implica la produzione di unità multimodali tra loro indipendenti
 3. Nello studio del significato, si devono prendere in considerazione tutte le risorse semiotiche utilizzate (Bezemer et al. 2016: 3)
 
