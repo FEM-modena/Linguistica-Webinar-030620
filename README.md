@@ -103,6 +103,8 @@ L’immagine riproduce una “pubblicità progresso” pubblicata nel 1998 nella
 ### VisMet: Corpus of Visual Metaphors
 Il progetto **VisMet** nasce in collaborazione con il Metaphor Lab dell’Università di Amsterdam ed è una raccolta interattiva di metafore visuali individuate a partire dall’analisi di diverse tipologie di immagini, tra cui cartelloni pubblicitari, graffiti, vignette satiriche e fumetti. Lo <a href= "http://www.vismet.org/VisMet/annotation.php" target="_blank"> schema di annotazione </a>
 utilizzato per l’identificazione delle metafore si basa sull’individuazione dei due domini concettuali e su come essi vengono rappresentati all’interno dell’immagine. Per chi desiderasse saperne di più, vi invitiamo a visionare direttamente il <a href= "http://www.vismet.org/VisMet/display.php" target="_blank"> sito del progetto </a> e a curiosare tra le oltre trecento immagini raccolte. 
+
+### Visualmetaphor
 E se volete proporre ai vostri studenti altre attività sulle metafore, vi suggeriamo questa <a href= "http://visualmetaphor.com/index.php" target="_blank"> piattaforma </a> che permette di combinare i più svariati elementi visivi per la creazione di metafore originali.
 
 ## Riferimenti
