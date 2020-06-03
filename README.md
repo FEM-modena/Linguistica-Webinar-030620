@@ -30,6 +30,9 @@ Così come esiste una **grammatica del testo** - intesa come insieme di regole c
 ## Un *discorso* delle immagini
 Si intende per *discorso* quell’insieme di caratteristiche che legano un testo o un’immagine ad un contesto situazionale - si parla infatti di *situated meanings* ≈ significati contestuali. Analizzare il *discorso* significa dunque analizzare quei significati “sociali” creati attraverso la grammatica, e collegarli a quelle caratteristiche/dinamiche sociali nei quali si situano. La relazione *discorso* - *grammatica* è biunivoca, pertanto l’uno influenza l’altra e viceversa. 
 
+## Come analizzare un’immagine
+> Questa sezione è un adattamento dei materiali e attività contenute in O’Halloran (2008).
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -77,63 +80,14 @@ Si intende per *discorso* quell’insieme di caratteristiche che legano un testo
 
 
 
-Contenuto
-Lingua
-Dimensione visuale
-Discorso
-Discorso
-Relazioni intervisuali
-(quali sono gli elementi che vedi nell’immagine? Ci sono elementi “paratestuali” che non appartengono all’immagine che ti aiutano a capirne il significato?)
-Opera 
-(come sono combinati i diversi elementi per creare un’unità dotata di significato?)
-
-Grammatica
-Clause complex /periodo
-Frase
-Predicato
-Parola
-Scena (quale sequenza di movimento-azione-evento-essere?? Compongono gli oggetti
-Sotto-scene (l’immagine può essere scomposta in “mini” scene indipendenti?)
-Figura (quali oggetti/elementi sono presenti nell’immagine?)
-Parte (quali elementi delle figure sono visibili?)
-Display
-ASPETTO?? forma?
-Materiality/aspetto materiale?
-Caratteristiche tipografiche/grafologiche e grafica
-(come sono usati i colori? Sono usati materiali diversi per evidenziare aspetti diversi dell’immagine? Come sono usate la prospettiva e l’inquadratura?)
-
-
 ![](esempio.jpg)
 ![](esempio_annotato.png)
-
-DISCORSO (discourse; Gee and Handford 2012:3--4 ): 
-When we actually utter or write a sentence, it has a situated meaning (Gee, 2010, 2011). Situated meanings arise because particular language forms take on specific or
-situated meanings in different, specific contexts of use.
-It should be clear now that discourse analysis involves studying language in the context of society, culture, history, institutions, identity formation, politics, power, and all the other things that language helps us to create and which, in turn, render language meaningful in certain ways and able to accomplish certain purposes. As such, discourse analysis is both a branch of linguistics and a contribution to the social sciences. Because of its relevance to so many social and cultural issues, discourse analysis of one form or another is used in a great many disciplines, for example history, anthropology, psychiatry, sociology, political science, or education.
-
-representational meaning is theorized in the form of a Scene consisting of Movement-Action-Event-Being Sequences of Figures and Objects in a Setting. There may be Interplay of Sub-Scenes or Episodes within the Scene, each with their own Movement-Action-Event-Being Sequence. For example, the Scene of the man reclining in Figure 1 consists of two Sub-Scenes; the woman’s hand on the man’s body and the man undoing his belt buckle.
-
-
-
-Relazioni tra le varie componenti 
-Work: come tutti gli elementi si combinano per creare qualcosa di diverso; in questo senso, work corrisponde al discourse, il dare significato a quello che si vede contestualizzandolo in maniera più ampia, dove entrano in gioco fattori che sono anche culturali e sociali e non più solo linguistici
-
-Far emergere la distinzione tra grammatica e discorso, evidenziandone però l’interdipendenza; Discourse (termine introdotto da Foucault alla fine degli anni ‘60) implica un diverso modo di concepire il linguaggio come costruzione sociale @@@
-L’analisi del discorso (Discourse Analysis) è una metodologia di analisi linguistica che si applica a qualunque tipo di sistema semiotico, allo scopo di evidenziarne non tanto le caratteristiche strutturali, quanto di rivelarne l’aspetto sociale, determinato dal contesto d’uso e dall’interazione con altri *discorsi*.
 
 ## Per approfondire
 ### VisMet: Corpus of Visual Metaphors
 Il progetto **VisMet** nasce in collaborazione con il Metaphor Lab dell’Università di Amsterdam ed è una raccolta interattiva di metafore visuali individuate a partire dall’analisi di diverse tipologie di immagini, tra cui cartelloni pubblicitari, graffiti, vignette satiriche e fumetti. Lo <a href= "http://www.vismet.org/VisMet/annotation.php" target="_blank"> schema di annotazione </a>
 utilizzato per l’identificazione delle metafore si basa sull’individuazione dei due domini concettuali e su come essi vengono rappresentati all’interno dell’immagine. Per chi desiderasse saperne di più, vi invitiamo a visionare direttamente il <a href= "http://www.vismet.org/VisMet/display.php" target="_blank"> sito del progetto </a> e a curiosare tra le oltre trecento immagini raccolte. 
 E se volete proporre ai vostri studenti altre attività sulle metafore, vi suggeriamo questa <a href= "http://visualmetaphor.com/index.php" target="_blank"> piattaforma </a> che permette di combinare i più svariati elementi visivi per la creazione di metafore originali.
-
-
-
-
-
-
-
-
 
 ## Riferimenti
 Bezemer, Josephus Johannes, Carey Jewitt, and Kay L. O’Halloran. 2016. *Introducing Multimodality*. London ; New York: Routledge.
