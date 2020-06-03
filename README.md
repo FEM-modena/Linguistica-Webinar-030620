@@ -39,7 +39,7 @@ Si intende per *discorso* quell’insieme di caratteristiche che legano un testo
 .tg .tg-uqo3{background-color:#efefef;text-align:center;vertical-align:top}
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
-.tg .tg-0lax{font-style:italic; text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -60,7 +60,7 @@ Si intende per *discorso* quell’insieme di caratteristiche che legano un testo
   </tr>
   <tr>
     <td class="tg-0lax">Periodo<br>Frase<br>Predicato<br>Parola<br></td>
-    <td class="tg-0lax">Scena: quale sequenza di movimento-azione-evento compongono gli oggetti?<br>Sotto-scene: ’immagine può essere scomposta in “mini” scene indipendenti?<br><br>Figura: quali oggetti/elementi sono presenti nell’immagine?<br><br>Parte: quali elementi delle figure sono visibili?</td>
+    <td class="tg-0lax">Scena: quale sequenza di movimento-azione-evento compongono gli oggetti?<br><br>Sotto-scene: ’immagine può essere scomposta in “mini” scene indipendenti?<br><br>Figura: quali oggetti/elementi sono presenti nell’immagine?<br><br>Parte: quali elementi delle figure sono visibili?</td>
   </tr>
 </thead>
 <tbody>
@@ -69,7 +69,7 @@ Si intende per *discorso* quell’insieme di caratteristiche che legano un testo
     <td class="tg-uqo3" colspan="2">Materialità</td>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="2">Caratteristiche tipografiche/grafologiche e graficaAd es. come sono usati i colori? Sono usati materiali diversi per evidenziare aspetti diversi dell’immagine? Come sono usate la prospettiva e l’inquadratura?</td>
+    <td class="tg-0lax" colspan="2">Caratteristiche tipografiche/grafologiche e grafica<br><br>Ad es. come sono usati i colori? Sono usati materiali diversi per evidenziare aspetti diversi dell’immagine? Come sono usate la prospettiva e l’inquadratura?</td>
   </tr>
 </tbody>
 </table>
