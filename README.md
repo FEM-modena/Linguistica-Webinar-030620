@@ -109,4 +109,5 @@ E se volete proporre ai vostri studenti altre attività sulle metafore, vi sugge
 Bezemer, Josephus Johannes, Carey Jewitt, and Kay L. O’Halloran. 2016. *Introducing Multimodality*. London ; New York: Routledge.  
 Gee, James Paul, and Michael Handford, eds. 2012. *The Routledge Handbook of Discourse Analysis*. Routledge Handbooks in Applied Linguistics. London ; New York: Routledge.  
 Halliday, M.A.K. 2014. *Introduction to Functional Grammar*. London ; New York: Routledge.  
+O’Halloran, Kay L . 2008. ‘Systemic Functional-Multimodal Discourse Analysis (SF-MDA): Constructing Ideational Meaning Using Language and Visual Imagery’. *Visual Communication* 7 (4): 443–75. <a href="https://doi.org/10.1177/1470357208096210" rel="" target="_blank">Link all’articolo.</a>  
 <a href="http://www.insegnareonline.com/rivista/cultura-ricerca-didattica/strada-tesi-prospettiva-multimodale" rel="" target="_blank">Sulla strada delle Dieci Tesi in prospettiva multimodale</a>
